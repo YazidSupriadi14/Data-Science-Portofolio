@@ -1,0 +1,14 @@
+tensorflow>=2.15.0
+tensorflowjs>=4.17.0
+keras>=2.15.0
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+pyyaml
+tqdm
+kagglehub
+opencv-python
+scikit-image
+scikit-learn
